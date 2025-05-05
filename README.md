@@ -1,6 +1,8 @@
 # MemflowPyExamples
 This is Examples for Memflow... So Enjoy to use this!!!
 
+[Join To My Discord Server](https://discord.gg/br7fvWrU2X)
+
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
